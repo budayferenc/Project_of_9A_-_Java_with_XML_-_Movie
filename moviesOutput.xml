@@ -1,0 +1,44 @@
+<movie>
+<title>Child's Play</title>
+<genre>HORROR</genre>
+<duration>87</duration>
+<rate>6.5</rate>
+<cast>[Catherine Hicks, Chris Sarandon]</cast>
+</movie>
+<person>
+<firstName>Catherine</firstName>
+<lastName>Hicks</lastName>
+<gender>MALE</gender>
+<hasOscar>true</hasOscar>
+<hasGoldenGlobe>true</hasGoldenGlobe>
+</person>
+<person>
+<firstName>Chris</firstName>
+<lastName>Sarandon</lastName>
+<gender>FEMALE</gender>
+<hasOscar>false</hasOscar>
+<hasGoldenGlobe>true</hasGoldenGlobe>
+</person>
+
+<movie>
+<title>Lost in space</title>
+<genre>ACTION</genre>
+<duration>130</duration>
+<rate>5.1</rate>
+<cast>[Gary Oldman, William Hurt]</cast>
+</movie>
+<person>
+<firstName>Gary</firstName>
+<lastName>Oldman</lastName>
+<gender>FEMALE</gender>
+<hasOscar>true</hasOscar>
+<hasGoldenGlobe>true</hasGoldenGlobe>
+</person>
+<person>
+<firstName>William</firstName>
+<lastName>Hurt</lastName>
+<gender>FEMALE</gender>
+<hasOscar>false</hasOscar>
+<hasGoldenGlobe>false</hasGoldenGlobe>
+</person>
+
